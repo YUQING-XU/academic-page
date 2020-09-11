@@ -17,9 +17,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ### Publications
-* Yuqing Xu, Guangbin Wang, Dongping Cao, and Chen Xia. (2020). "Identification of Construction Safety Risks Based on Text Mining and LIBSVM Method." Proceedings of the 2020 Construction Research Congress, accepted.
+* **Yuqing Xu**, Guangbin Wang, Dongping Cao, and Chen Xia. (2020). "Identification of Construction Safety Risks Based on Text Mining and LIBSVM Method." *Proceedings of the 2020 Construction Research Congress, accepted.*
 
 
 ### Research Experiences
 * Project Report, BIM 'Best Practices' in China
-** An investigation of excellent BIM application through case studies at regional, national levels
+  * An investigation of excellent BIM application through case studies at regional, national levels
