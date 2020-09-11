@@ -1,8 +1,5 @@
 # Welcome to Yuqing Xu's academic page
 
-I'm a third-year graduate student in construction managemnet at Tongji University now.
-
-
 ## Education
 * B.S. in Southeast University, Nanjing, China, 2018
 * M.S. in Tongji University, Shanghai, China, 2021(expected)
