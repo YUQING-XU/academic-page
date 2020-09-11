@@ -1,4 +1,4 @@
-# Welcome to Yuqing Xu's academic page
+# Welcome to Yuqing Xu's page
 
 ## Education
 * B.S. in Southeast University, Nanjing, China, 2018
