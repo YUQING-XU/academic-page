@@ -35,6 +35,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Honors and Awards
 * Scholarship for Exchange Students to Germany, 2019
 * Excellent Graduates of Engineering Management in Jiangsu Province *(29 students in Jiangsu)*, 2018
-* Outstanding Graduates in Southeast University *(185 students in SEU), 2018
+* Outstanding Graduates in Southeast University *(185 students in SEU)*, 2018
 * National Scholarship, 2017
  
