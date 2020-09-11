@@ -5,15 +5,21 @@ You can use the [editor on GitHub](https://github.com/YUQING-XU/academic-page/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Education
-======
-* B.S. in Southeast University, 2018
-* 
+* B.S. in Southeast University, Nanjing, China, 2018
+* M.S. in Tongji University, Shanghai, China, 2021(expected)
+* Exchange student in TU Darmstadt, Darmstadt, Germany, Sep. 2019--Feb. 2020
 
 
-### Jekyll Themes
+### Research Interests
+* Sustainable Engineering
+* Construction and Infrastructure Management
+* Building Information Modelling
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YUQING-XU/academic-page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Publications
+* Yuqing Xu, Guangbin Wang, Dongping Cao, and Chen Xia. (2020). "Identification of Construction Safety Risks Based on Text Mining and LIBSVM Method." Proceedings of the 2020 Construction Research Congress, accepted.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Research Experiences
+* Project Report, BIM 'Best Practices' in China
+** An investigation of excellent BIM application through case studies at regional, national levels
