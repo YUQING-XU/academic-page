@@ -7,9 +7,9 @@
 
 
 ## Research Interests
-* Sustainable Engineering
-* Construction and Infrastructure Management
 * Building Information Modelling
+* Construction and Infrastructure Management
+* Sustainable Engineering
 
 
 ## Publications
