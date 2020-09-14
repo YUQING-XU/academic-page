@@ -13,7 +13,7 @@
 
 
 ## Publications
-* **Yuqing Xu**, Guangbin Wang, Dongping Cao, and Chen Xia. (2020). "Identification of Construction Safety Risks Based on Text Mining and LIBSVM Method." ***Proceedings of the 2020 Construction Research Congress, accepted.***
+* **Yuqing Xu**, Guangbin Wang, Dongping Cao, and Chen Xia. (2020). "Identification of Construction Safety Risks Based on Text Mining and LIBSVM Method." ***Proceedings of the 2020 ASCE Construction Research Congress, accepted.***
 
 
 ## Research Experiences
@@ -27,7 +27,10 @@
   * Crawlers to collect data from websites
  
 ## Engineering Projects
-* **Compilation of the Overall Schedule for Beijing New Airport**
+* **Compilation of the Overall Schedule for Beijing Daxing International Airport**
+  * Field research on subcontractors
+  * Compilation of airport construction and operation plans
+* **Compilation of the Overall Schedule for Chengdu Tianfu International Airport**
   * Field research on subcontractors
   * Compilation of airport construction and operation plans
   
