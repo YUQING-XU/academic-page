@@ -3,7 +3,7 @@
 ## Education
 * B.S. in Southeast University, Nanjing, China, 2018
 * M.S. in Tongji University, Shanghai, China, 2021(expected)
-* Exchange student in TU Darmstadt, Darmstadt, Germany, Sep. 2019--Feb. 2020
+* Exchange student in TU Darmstadt, Darmstadt, Germany, Sept. 2019--Feb. 2020
 
 
 ## Research Interests
