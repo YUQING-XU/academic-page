@@ -1,19 +1,22 @@
 # Welcome to Yuqing Xu's page
 
 ## Education
-* B.S. in Southeast University, Nanjing, China, 2018
-* M.S. in Tongji University, Shanghai, China, 2021(expected)
-* Exchange student in TU Darmstadt, Darmstadt, Germany, Sept. 2019--Feb. 2020
+* B.S. of Construction Management in Southeast University, Nanjing, China, 2018
+* M.S. of Management Science in Tongji University, Shanghai, China, 2021(expected)
+* Exchange student in TU Darmstadt, Darmstadt, Germany, Sep. 2019--Feb. 2020
+
 
 
 ## Research Interests
-* Building Information Modelling
 * Construction and Infrastructure Management
+* Building Information Modeling
 * Sustainable Engineering
+
 
 
 ## Publications
 * **Yuqing Xu**, Guangbin Wang, Dongping Cao, and Chen Xia. (2020). "Identification of Construction Safety Risks Based on Text Mining and LIBSVM Method." ***Proceedings of the 2020 ASCE Construction Research Congress, accepted.***
+
 
 
 ## Research Experiences
@@ -26,6 +29,8 @@
   * Design of a JSON conference template
   * Crawlers to collect data from websites
  
+ 
+ 
 ## Engineering Projects
 * **Compilation of the Overall Schedule for Beijing Daxing International Airport**
   * Field research on subcontractors
@@ -33,6 +38,8 @@
 * **Compilation of the Overall Schedule for Chengdu Tianfu International Airport**
   * Field research on subcontractors
   * Compilation of airport construction and operation plans
+  
+  
   
 ## Honors and Awards
 * **Scholarship for Exchange Students to Germany**, 2019
