@@ -9,8 +9,8 @@
 
 ## Research Interests
 * Construction and Infrastructure Management
-* Building Information Modeling
-* Sustainable Engineering
+* Optimization of disaster prevention decisions
+* Visualized management of urban infrastructure systems combined with information technologies
 
 
 
