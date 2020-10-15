@@ -1,16 +1,17 @@
 # Welcome to Yuqing Xu's page
 
 ## Education
-* B.S. of Construction Management in Southeast University, Nanjing, China, 2018
-* M.S. of Management Science in Tongji University, Shanghai, China, 2021(expected)
-* Exchange student in TU Darmstadt, Darmstadt, Germany, Sep. 2019--Feb. 2020
+* B.S. of Construction Management in **Southeast University**, Nanjing, China, 2018
+* M.S. of Management Science in **Tongji University**, Shanghai, China, 2021(expected)
+* Exchange student in **TU Darmstadt**, Darmstadt, Germany, Sep. 2019--Feb. 2020
 
 
 
 ## Research Interests
-* Construction and Infrastructure Management
-* Optimization of disaster prevention decisions
-* Visualized management of urban infrastructure systems combined with information technologies
+* Sustainable Building Performance
+* Sustainable Design and Project Planning
+* Infrastructure Resilience and Sustainability
+* Building Information Modelling (BIM)
 
 
 
