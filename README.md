@@ -8,11 +8,9 @@
 
 
 ## Research Interests
-* Sustainable Building Performance
-* Sustainable Design and Project Planning
-* Infrastructure Resilience and Sustainability
-* Building Information Modelling (BIM)
-
+* Building Information Modelling in Infrastructure
+* Machine Learning Assistance for Construction Data Prediction and Analysis
+* Virtual Design and Construction (VDC)
 
 
 ## Publications
